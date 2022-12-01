@@ -172,7 +172,7 @@
 
         
 
-        TotalAmount = earnableSec * 14;
+        TotalAmount = earnableSec * 12.5;
 
         console.log("Total Earning amount in paise :" + TotalAmount);
 
