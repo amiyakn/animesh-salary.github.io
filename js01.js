@@ -68,7 +68,7 @@
 
       
 
-              document.getElementById("days").innerText = Math.floor(distance / (day)-16),
+              document.getElementById("days").innerText = Math.floor(distance / (day)-18),
 
                 document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
 
