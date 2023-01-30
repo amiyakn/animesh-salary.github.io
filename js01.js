@@ -108,7 +108,7 @@
 
         dateobj.setDate(13);
 
-        dateobj.setMonth(02);
+        dateobj.setMonth(01);
 
         dateobj.setFullYear(2023);
 
